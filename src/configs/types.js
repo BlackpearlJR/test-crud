@@ -1,0 +1,14 @@
+export const INT_USER = 'INT_USER'; 
+export const ADD_USER = 'ADD_USER'; 
+export const EDIT_USER = 'EDIT_USER'; 
+export const DELETE_USER = 'DELETE_USER';
+export const CLEAR_USERS = 'CLEAR_USERS';
+
+// noti
+export const SET_LOADING = 'SET_LOADING';
+export const CLEAR_LOADING = 'CLEAR_LOADING';
+export const SET_ERROR_MESSAGE = 'SET_ERROR_MESSAGE';
+export const SET_SUCCESS_MESSAGE = 'SET_SUCCESS_MESSAGE';
+export const CLEAR_ERROR_MESSAGE = 'CLEAR_ERROR_MESSAGE';
+export const CLEAR_SUCCESS_MESSAGE = 'CLEAR_SUCCESS_MESSAGE';
+
